@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1633942095 source:c:\users\xuan wei\documents\programming\cpp\glasshouse_s-des\main.cpp
-	<iostream>
-	<fstream>
-	<stdlib.h>
-	<vector>
-
